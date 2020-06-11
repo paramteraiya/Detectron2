@@ -1,0 +1,131 @@
+{
+    "info": {
+        "year": "2020",
+        "version": "2",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://app.roboflow.ai/datasets/furniture-wwudr/2",
+        "date_created": "2020-06-11T18:32:35+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "",
+            "name": "Unknown"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Table-chair",
+            "supercategory": "none"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "Image_22_jpeg.rf.45ff4772e7f5f442acc9d9e442f30180.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "Image_4_jpeg.rf.e7913996666c27b023608aaa9b3d50d2.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "Image_54_jpeg.rf.b9030b3eb5db6ed8dbbe9734633b8d62.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 3,
+            "license": 1,
+            "file_name": "Image_55_jpeg.rf.f9d7612c315c17c04f68bee654b99851.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 4,
+            "license": 1,
+            "file_name": "Image_10_jpeg.rf.10638b71a305b46688a87ebc82fd8103.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 5,
+            "license": 1,
+            "file_name": "Image_67_jpeg.rf.2a6638a35d63ed5c047c5823b38cd615.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 6,
+            "license": 1,
+            "file_name": "Image_45_jpeg.rf.ea34c0b152d4e1a1ede046a559e7ac13.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 7,
+            "license": 1,
+            "file_name": "Image_24_jpeg.rf.ee2a7d8323fd46037e952778e064c741.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 8,
+            "license": 1,
+            "file_name": "Image_58_jpeg.rf.349490430d11fcc9dcde27f10edb18fe.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 9,
+            "license": 1,
+            "file_name": "Image_1_jpeg.rf.7444b9235eeae453092c715c7ccdbe42.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 10,
+            "license": 1,
+            "file_name": "Image_32_jpeg.rf.2928605cdd0c57c60b66cf08da19efe5.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 11,
+            "license": 1,
+            "file_name": "Image_49_jpeg.rf.aa52aecf00987eabe60e6a6dc94c3300.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 12,
+            "license": 1,
+            "file_name": "Image_61_jpeg.rf.7febdc5c0e654498394557a2fbcd1a51.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        }
+    ],
+    "annotations": []
+}

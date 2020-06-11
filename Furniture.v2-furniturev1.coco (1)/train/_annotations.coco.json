@@ -1,0 +1,387 @@
+{
+    "info": {
+        "year": "2020",
+        "version": "2",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://app.roboflow.ai/datasets/furniture-wwudr/2",
+        "date_created": "2020-06-11T18:32:35+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "",
+            "name": "Unknown"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Table-chair",
+            "supercategory": "none"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "Image_57_jpeg.rf.0aa77f3ee887dfdd478111bf8d2d1196.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "Image_35_jpeg.rf.28a97494963dfef0646e66362d2567bd.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "Image_65_jpeg.rf.008f2309fbd9c510574a8a3debb035d2.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 3,
+            "license": 1,
+            "file_name": "Image_64_jpeg.rf.3584e7ed1137cbab8c9396ee2e5e9fde.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 4,
+            "license": 1,
+            "file_name": "Image_19_jpeg.rf.694125230850459353a96c56b9fe0e5d.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 5,
+            "license": 1,
+            "file_name": "Image_29_jpeg.rf.358e019587e7b87e510e2f07e9c94669.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 6,
+            "license": 1,
+            "file_name": "Image_63_jpeg.rf.6e025787da3dcb1eb7cebf0089210bfc.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 7,
+            "license": 1,
+            "file_name": "Image_44_jpeg.rf.059ba1cb0037bdde5e9447ac3fc84ed9.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 8,
+            "license": 1,
+            "file_name": "Image_12_jpeg.rf.23cde5fb25cad13df3476fd8a4ad133c.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 9,
+            "license": 1,
+            "file_name": "Image_36_jpeg.rf.5e2c5a9b416bc7ea41667f8da1be26ca.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 10,
+            "license": 1,
+            "file_name": "Image_23_jpeg.rf.095c7a69c54d7fb52a7d2261cf1c85e9.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 11,
+            "license": 1,
+            "file_name": "Image_13_jpeg.rf.1e1607f00624fac2e9e91d8bf743ec82.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 12,
+            "license": 1,
+            "file_name": "Image_59_jpeg.rf.5274a9fbe12ccdb00f524dee6240d3c9.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 13,
+            "license": 1,
+            "file_name": "Image_15_jpeg.rf.3a3d50d25b363a27fd95cf216835c124.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 14,
+            "license": 1,
+            "file_name": "Image_31_jpeg.rf.38f926bc081003fd216aa6295d109fae.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 15,
+            "license": 1,
+            "file_name": "Image_8_jpeg.rf.43539a43e100cd8fae2b8a87f91a72eb.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 16,
+            "license": 1,
+            "file_name": "Image_38_jpeg.rf.1fc812d8daa5a5e668c39ff15b27c1ba.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 17,
+            "license": 1,
+            "file_name": "Image_46_jpeg.rf.4af7f446e51cc73cf5132acdc311c852.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 18,
+            "license": 1,
+            "file_name": "Image_34_jpeg.rf.99cda676985738061a70ef558d81562f.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 19,
+            "license": 1,
+            "file_name": "Image_5_jpeg.rf.7b58c723e62ae369fc6aa156dff84b08.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 20,
+            "license": 1,
+            "file_name": "Image_7_jpg.rf.75c68e47ab9edc6ab49e139d1f71d3a2.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 21,
+            "license": 1,
+            "file_name": "Image_11_jpeg.rf.bfffeba80865805deb5289c28a6f0da0.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 22,
+            "license": 1,
+            "file_name": "Image_37_jpeg.rf.9f6631825570288ee6456c42a23b457d.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 23,
+            "license": 1,
+            "file_name": "Image_25_jpeg.rf.b7b332da0ee43a7f730ee0ef25387dd5.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 24,
+            "license": 1,
+            "file_name": "Image_42_jpeg.rf.c3dda7c481577ac94ed07b7b88dfb969.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 25,
+            "license": 1,
+            "file_name": "Image_14_jpeg.rf.c9113dc84c6821dc25f38120c813439b.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 26,
+            "license": 1,
+            "file_name": "Image_51_jpeg.rf.d2b15a4589c3ecc0a57f81cd57f10100.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 27,
+            "license": 1,
+            "file_name": "Image_43_jpeg.rf.e3c4e41a7dbcbd27f42a9a4ebc7be056.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 28,
+            "license": 1,
+            "file_name": "Image_20_jpeg.rf.aa15673c89c7c698207c7b2e716e5fed.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 29,
+            "license": 1,
+            "file_name": "Image_39_jpeg.rf.f16d48d5e5828d4b0055908b88018e8a.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 30,
+            "license": 1,
+            "file_name": "Image_2_jpeg.rf.a98a61d659dc052351fb6ffe90edbb56.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 31,
+            "license": 1,
+            "file_name": "Image_66_jpeg.rf.e425084c0905021171ab9ae54082fe6e.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 32,
+            "license": 1,
+            "file_name": "Image_56_jpeg.rf.906095a3963574b32a13f01700e8123b.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 33,
+            "license": 1,
+            "file_name": "Image_33_jpeg.rf.8fab09280e7e9d7e72f1990251df4fa0.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 34,
+            "license": 1,
+            "file_name": "Image_48_jpeg.rf.ab47fea9c130c98c0d5c94a47df681f7.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 35,
+            "license": 1,
+            "file_name": "Image_16_jpeg.rf.e4aadde8c5bcf34f90e416056d13b24c.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 36,
+            "license": 1,
+            "file_name": "Image_9_jpeg.rf.966c3dfaffcd8b4aaeb5eec6b7c4de75.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 37,
+            "license": 1,
+            "file_name": "Image_50_jpeg.rf.f4e9d7f95f0b4c64da29be0a86a8bf5e.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 38,
+            "license": 1,
+            "file_name": "Image_62_jpeg.rf.730df810a1d03cfa6bcf14cdb44bf1a6.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 39,
+            "license": 1,
+            "file_name": "Image_40_jpeg.rf.cc3e3acd57255a30baf2c70c96a27516.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 40,
+            "license": 1,
+            "file_name": "Image_18_jpeg.rf.912daddbc4a058d469c34881e383f277.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 41,
+            "license": 1,
+            "file_name": "Image_52_jpeg.rf.d05a3028487b754336e4873246017c37.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 42,
+            "license": 1,
+            "file_name": "Image_60_jpeg.rf.f945bd16b2bc8765cedfb701d8ba32a1.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 43,
+            "license": 1,
+            "file_name": "Image_53_jpeg.rf.2de7e79e870f51706431bfbbb7c5d823.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        },
+        {
+            "id": 44,
+            "license": 1,
+            "file_name": "Image_26_jpeg.rf.f7b2e54d138a5012f0c0173fd0664e92.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-06-11T18:32:35+00:00"
+        }
+    ],
+    "annotations": []
+}
